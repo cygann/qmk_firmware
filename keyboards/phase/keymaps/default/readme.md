@@ -1,3 +1,3 @@
 # The Default keymap for phase
 
-The default keymap for phase is a copy of the [Lagoon](../lagoon/readme.md) keymap.
+The default keymap for phase is a copy of the [Pond](../pond/readme.md) keymap.
